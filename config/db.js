@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const caPath = path.join(
-  path.resolve(__dirname, "../../"),
+  path.resolve(__dirname, "../"),
   "isrgrootx1.pem"
 );
 
